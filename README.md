@@ -1,1 +1,1 @@
-# humphrey-gads-2020-projects
+# Humphrey's GADS Project Submissions
